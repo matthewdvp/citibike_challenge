@@ -42,11 +42,3 @@ For city officials, create either a basic static map or an advanced dynamic map 
 
 Your visualizations should form the basis of dashboards and a Tableau story that ties all the insights together in a professional, logical, and visually appealing manner.
 
-# Submission
-Once your Tableau workbook and presentation are ready:
-
-Save your assignment to your Tableau Public profile.
-
-Share the URL to your Tableau Public workbook along with any additional files used in your analysis.
-
-With your data analysis and visualization expertise, contribute to improving the Citi Bike program and providing valuable insights to city officials. If you encounter challenges or need assistance, feel free to seek guidance from instructors or peers. Best of luck with your analysis and storytelling!
